@@ -1,0 +1,2 @@
+token=1062283009:AAEKwOJ-qwyXpumjQZXmkVlBp_Ez-RFRmu0
+name=testBotTestTest_bot

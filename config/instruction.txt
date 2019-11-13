@@ -1,0 +1,5 @@
+use commands:
+/today
+/tomorrow
+/week
+/group

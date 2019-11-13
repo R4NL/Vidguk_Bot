@@ -1,0 +1,2 @@
+enterLanguage=Введите свой язык в формате ISO 639 (e.g. eng, rus).
+languageSet=Русский язык установлен.

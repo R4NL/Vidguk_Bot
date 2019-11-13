@@ -1,0 +1,4 @@
+hello=Hello! To enter your group name, use /group. If you want to change language, use /languages
+enterLanguage=Enter your language in format ISO 639 (e.g. eng, rus).
+noSuchLanguage=We are sorry, but this language is not supported yet. English set.
+languageSet=English set.
